@@ -92,7 +92,7 @@ Once you have selected a Preset, these options can be further adjusted to match 
 | :------ | :--------------- | :------------------------------------------------------ |  
 | Default | Layout Mode      | Responsive                                              |  
 | Default | Load Transition  | Off                                                     |  
-| Default | Display Content  | On                                                      |  
+| Default | Display Component| On                                                      |  
 | Default | Mainbody Enabled | On                                                      |  
 | Default | RTL Support      | Off                                                     |  
 | Default | Page Suffix      | On                                                      |  
